@@ -1,6 +1,9 @@
-exec autoexec
+exec autoexec.cfg
 
 r_shadows 1
 r_shadowrendertotexture 1
 cl_blobbyshadows 0
 r_shadowmaxrendered 12
+
+alias remove_scope "sv_cheats 1; testhudanim scoperemoval"
+remove_scope
