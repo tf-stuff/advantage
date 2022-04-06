@@ -1,0 +1,6 @@
+exec autoexec
+
+r_shadows 1
+r_shadowrendertotexture 1
+cl_blobbyshadows 0
+r_shadowmaxrendered 12
