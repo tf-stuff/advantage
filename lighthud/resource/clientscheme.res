@@ -1,3 +1,5 @@
+#base	"shadows.res"
+
 "Scheme"
 {
 	"Colors"
